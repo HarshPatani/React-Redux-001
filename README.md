@@ -1,3 +1,3 @@
 # React-Redux-001
 
-## Dark mode-Light mode Toggle
+## Toggle Light/Dark mode through Redux.
